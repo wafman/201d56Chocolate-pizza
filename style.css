@@ -96,7 +96,7 @@ h6{
          margin-top:10px;
          margin-left:70px;
          font-size:13px;
-       padding-top:20px;
+        padding-top:20px;
  
      }
      .van{
@@ -115,6 +115,7 @@ h6{
  }
  #footline2{
   border: 0;
+  margin-top: 80px;
   margin-bottom:-10px;
   height: 1px;
   background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #0e0d0d);
