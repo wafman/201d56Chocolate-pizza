@@ -35,28 +35,20 @@ body{
    padding-top:20px;
  }
  #logo1{
- 
- 
  display:block;
- 
  float:right;
- 
  margin-right:68px;
  }
  
  #logo2{
- 
-     display:block;
- 
-     float:right;
+    display:block;
+    float:right;
     margin-right:-230px;
-     /* position: relative; */
      }
  
-  
-     header{
-      width:960px;
-      margin:0px auto;
+header{
+    width:960px;
+    margin:0px auto;
      }
 
      #smallpic{
